@@ -1,0 +1,24 @@
+body {
+    font-family: 'Mada', sans-serif;
+}
+
+.navbar {
+    background: linear-gradient(to right, #f2709c, #ff9472);
+    height: 100px;
+}
+.navbar-brand {
+    font-size: 2.5rem;
+    text-shadow: 1px 1px 1px #333;
+}
+.btn-dark {
+    background: #ff9472;
+    border: 1px solid #333;
+}
+.logo {
+    width: 50px;
+    margin-top: -15px;
+    margin-right: 5px;
+}
+.footer {
+    
+}
