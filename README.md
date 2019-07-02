@@ -13,12 +13,12 @@ Created using [create-react-app](https://github.com/facebook/create-react-app)
 
 ## Getting Started
 
-```sh
+```
 npm start
 ```
 Runs the app in development mode.
 
-```sh
+```
 npm run build
 ```
 Creates the final build of the project to be deployed on the server.
