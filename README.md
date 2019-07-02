@@ -30,7 +30,7 @@ Creates the final build of the project and deploys to GitHub Pages.
 
 ## Live Version
 
-[Lyrics Finder Project Counter](https://lyricsfinderproject.netlify.com)
+[Lyrics Finder Project](https://lyricsfinderproject.netlify.com)
 
 ## Author
 
